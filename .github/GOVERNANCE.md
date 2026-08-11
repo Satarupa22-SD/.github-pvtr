@@ -21,6 +21,34 @@ This governance explains how the project is run.
 - [Voting](#voting)
 - [Modifying this Governance](#modifying-this-governance)
 
+## Guiding Governance Principles
+ 
+Any issues or proposals brought to the project's maintainers shall be framed in the following Guiding Governance Principles. Proposals not adhering to these principles shall not be considered for consensus.
+ 
+**Follow Plugin-Based Architecture**
+ 
+Privateer's validation logic lives in plugins, not the core CLI. Changes to `privateer` and `privateer-sdk` must preserve this separation of concerns, so that plugins remain independently developed, versioned, and maintained by the community without requiring core changes.
+ 
+**Standardized, Machine-Readable Output**
+ 
+All validation results must remain consistent and machine-readable, so that output can be consumed by automation, dashboards, and downstream tooling without bespoke parsing. Changes that would fragment or break this consistency require explicit maintainer review.
+ 
+**Ecosystem Compatibility**
+ 
+Where Privateer integrates with or generates scaffolding from external schemas and catalogs (such as [Gemara](https://gemara.openssf.org) Layer 2 control catalogs), changes must respect the structure and versioning of those upstream schemas rather than introducing parallel or conflicting conventions.
+ 
+**Incremental and Backward-Compatible**
+ 
+Changes prioritize backward compatibility for the CLI, SDK interfaces, and plugin contract. Breaking changes are rare, require careful consideration, community input, and a clear migration path, and must be called out explicitly in release notes.
+ 
+**Maintainer Consensus**
+ 
+To reach a decision on an issue or proposal, the proponents must seek maintainer consensus.
+ 
+In the context of this document, "maintainer consensus" means collecting approvals from at least 51% of the current Maintainer body (the `oss` GitHub Team) for the affected repository, with enough time for all maintainers to review (usually 2 business days), and without a dissenting maintainer opinion.
+ 
+This document does not prescribe a method of voting. Any mechanism that enables the collection of positive/negative votes associated with an identity may be used; for example, "thumbs up/down" reactions or "+1"/"-1" comments on the relevant issue or pull request.
+
 ## Values
 
 The Privateer project and its leadership embrace the following values:

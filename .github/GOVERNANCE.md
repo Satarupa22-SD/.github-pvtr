@@ -8,6 +8,7 @@ While maintainer consensus shall be the process for decision making, all issues 
 
 This governance explains how the project is run.
 
+- [Guiding Governance Principles](#guiding-governance-principles)
 - [Values](#values)
 - [Community Roles](#community-roles)
 - [Maintainers](#maintainers)
@@ -75,21 +76,21 @@ The Privateer project and its leadership embrace the following values:
   participation, and there is a clear path up the contributor ladder into leadership
   positions.
   
- # Community Roles
+## Community Roles
 
 Everyone is welcome to contribute through discussion, issues, and pull requests.
 
-The following are roles and additional responsibilities that a person may recieve in the community.
+The following are roles and additional responsibilities that a person may receive in the community.
 
 
 | Role | Responsibilities | Requirements                                                        | Defined by |
 |:---|:---|:--------------------------------------------------------------------|:---|
 | Member | Active contributor, participates in discussions and reviews | Multiple contributions over time, sponsored by 1 maintainer | GitHub `privateerproj` Organization Member |
 | Approver | Review and approve PRs within a specific scope | Member with history of quality reviews | [CODEOWNERS] entry for specific files or directories |
-| Core Maintainer | Org-wide oversight, spec authority, binding governance votes | Approver with cross-project contributions | [MAINTAINERS.md] entry and GitHub `privateer-maintainers` Team |
+| Core Maintainer | Org-wide oversight, spec authority, binding governance votes | Approver with cross-project contributions | [MAINTAINERS.md] entry and GitHub `core-maintainers` Team |
 | Community Manager | Outreach, moderation, documentation maintenance (lateral role) | Active community engagement | [MAINTAINERS.md] entry |
 
-For a complete description of all roles, requirements, and promotion processes, see the [Contributor Ladder]. Changes to the [Contributor Ladder] require approval from at least 66% of active maintainers.
+For a complete description of all roles, requirements, and promotion processes, see the [Contributor Ladder]. Changes to the [CONTRIBUTOR_LADDER.md] require approval from at least 66% of active maintainers.
 
 ## Maintainers
 

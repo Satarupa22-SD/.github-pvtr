@@ -155,8 +155,8 @@ provide advice and historical context to the project. They do not retain voting
 rights or repository write access. Emeritus Maintainers are listed separately in
 [EMERITUS.md](./EMERITUS.md).
 
-An Emeritus Maintainer may be reinstated through a simple majority vote of the
-active Maintainers.
+An Emeritus Maintainer may be reinstated through [maintainer consensus](#maintainer-consensus)
+of the active Maintainers.
 
 ## Meetings
 

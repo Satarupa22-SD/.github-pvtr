@@ -111,7 +111,7 @@ Maintainer status requires regular activity and adherence to the [OpenSSF Code o
 
 ### Emeritus Maintainers
 
-Emeritus maintainers are listed in a separate section on Privateer's [MAINTAINERS.md].
+Emeritus maintainers are listed in Privateer's [EMERITUS.md](./EMERITUS.md).
 A maintainer may be given Emeritus status after six months of inactivity (e.g., no pull request or issue interactions) or may self-assign Emeritus status via pull request.
 A maintainer may return from Emeritus status through [maintainer consensus] and a pull request.
 
@@ -177,7 +177,7 @@ An inactive member is anyone holding a role above with **zero** qualifying [cont
 - Self-assign **Emeritus** status via pull request at any time.
 - Be moved to Emeritus after six months of inactivity by any Maintainer via pull request.
 
-Emeritus members are listed in a separate section on [EMERITUS.md]. An Emeritus member may return to active status through [maintainer consensus] and a pull request.
+Emeritus members are listed in [EMERITUS.md](./EMERITUS.md). An Emeritus member may return to active status through [maintainer consensus] and a pull request.
 
 ## Revisions to the Contributor Ladder
 

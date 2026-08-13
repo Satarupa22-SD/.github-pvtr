@@ -42,7 +42,7 @@ Where Privateer integrates with or generates scaffolding from external schemas a
  
 Changes prioritize backward compatibility for the CLI, SDK interfaces, and plugin contract. Breaking changes are rare, require careful consideration, community input, and a clear migration path, and must be called out explicitly in release notes.
  
-**Maintainer Consensus**
+### Maintainer Consensus
  
 To reach a decision on an issue or proposal, the proponents must seek maintainer consensus.
  
@@ -90,8 +90,7 @@ The following are roles and additional responsibilities that a person may receiv
 | Core Maintainer | Org-wide oversight, spec authority, binding governance votes | Approver with cross-project contributions | [MAINTAINERS.md] entry and GitHub `core-maintainers` Team |
 | Community Manager | Outreach, moderation, documentation maintenance (lateral role) | Active community engagement | [MAINTAINERS.md] entry |
 
-For a complete description of all roles, requirements, and promotion processes, see the [Contributor Ladder]. Changes to the [CONTRIBUTOR_LADDER.md] require approval from at least 66% of active maintainers.
-
+For a complete description of all roles, requirements, and promotion processes, see the [Contributor Ladder](./CONTRIBUTOR_LADDER.md). Changes to the [Contributor Ladder](./CONTRIBUTOR_LADDER.md) require approval from at least 66% of active maintainers.
 ## Maintainers
 
 Privateer Maintainers have write access to the project's GitHub repositories.
@@ -125,7 +124,7 @@ To become a Maintainer, a contributor should demonstrate:
 
 A new Maintainer must be nominated by an existing Maintainer. Following public
 community discussion, the active Maintainers may appoint the nominee through a
-simple majority vote. Appointments are based solely on merit and demonstrated
+majority vote as defined in [Maintainer Consensus](#maintainer-consensus). Appointments are based solely on merit and demonstrated
 contributions, regardless of employer or organizational affiliation.
 
 New Maintainers will be granted the appropriate GitHub permissions and access to

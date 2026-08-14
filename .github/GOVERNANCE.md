@@ -46,7 +46,7 @@ Changes prioritize backward compatibility for the CLI, SDK interfaces, and plugi
  
 To reach a decision on an issue or proposal, the proponents must seek maintainer consensus.
  
-In the context of this document, "maintainer consensus" means collecting approvals from at least 51% of the current Maintainer body (the `oss` GitHub Team) for the affected repository, with enough time for all maintainers to review (usually 2 business days), and without a dissenting maintainer opinion.
+In the context of this document, "maintainer consensus" means collecting approvals from at least 51% of the current Maintainer body (the `core-maintainers` GitHub Team) for the affected repository, with enough time for all maintainers to review (usually 2 business days), and without a dissenting maintainer opinion.
  
 This document does not prescribe a method of voting. Any mechanism that enables the collection of positive/negative votes associated with an identity may be used; for example, "thumbs up/down" reactions or "+1"/"-1" comments on the relevant issue or pull request.
 

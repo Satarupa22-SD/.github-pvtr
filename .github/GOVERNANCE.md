@@ -86,9 +86,9 @@ The following are roles and additional responsibilities that a person may receiv
 | Role | Responsibilities | Requirements                                                        | Defined by |
 |:---|:---|:--------------------------------------------------------------------|:---|
 | Member | Active contributor, participates in discussions and reviews | Multiple contributions over time, sponsored by 1 maintainer | GitHub `privateerproj` Organization Member |
-| Approver | Review and approve PRs within a specific scope | Member with history of quality reviews | [CODEOWNERS] entry for specific files or directories |
-| Core Maintainer | Org-wide oversight, spec authority, binding governance votes | Approver with cross-project contributions | [MAINTAINERS.md] entry and GitHub `core-maintainers` Team |
-| Community Manager | Outreach, moderation, documentation maintenance (lateral role) | Active community engagement | [MAINTAINERS.md] entry |
+| Approver | Review and approve PRs within a specific scope | Member with history of quality reviews | [CODEOWNERS](../CODEOWNERS) entry for specific files or directories |
+| Maintainer | Org-wide oversight, spec authority, binding governance votes | Approver with cross-project contributions | [MAINTAINERS.md](./MAINTAINERS.md) entry and GitHub `core-maintainers` Team |
+| Community Manager | Outreach, moderation, documentation maintenance (lateral role) | Active community engagement | [MAINTAINERS.md](./MAINTAINERS.md) entry |
 
 For a complete description of all roles, requirements, and promotion processes, see the [Contributor Ladder](./CONTRIBUTOR_LADDER.md). Changes to the [Contributor Ladder](./CONTRIBUTOR_LADDER.md) require approval from at least 66% of active maintainers.
 ## Maintainers

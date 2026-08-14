@@ -159,7 +159,7 @@ The following table maps contributor ladder roles to GitHub Teams and their repo
 | GitHub Team | Role | Permission | Scope |
 |:---|:---|:---|:---|
 | `approvers` | [Approver] | Write | Specific repositories/plugins (review scope defined by [CODEOWNERS]) |
-| `oss` | [Maintainer] | Maintain/Admin | All fully open-source repositories |
+| `core-maintainers` | [Maintainer] | Maintain/Admin | All fully open-source repositories |
 | `admins` | Organization Admin | Owner | Entire `privateerproj` GitHub Organization |
 
 [Members][Member] receive Read access as the organization-level base permission. No dedicated team is required.

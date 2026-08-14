@@ -94,7 +94,7 @@ Candidates must be an active [Approver] with sustained cross-project contributio
 
 ### Process
 
-Nominations are submitted via pull request to update Privateer's [MAINTAINERS.md]. After validation, [maintainer consensus] is sought. Upon consensus, the PR is merged and the new Maintainer is added to the `oss` GitHub Team.
+Nominations are submitted via pull request to update Privateer's [MAINTAINERS.md]. After validation, [maintainer consensus] is sought. Upon consensus, the PR is merged and the new Maintainer is added to the `core-maintainers` GitHub Team.
 
 ### Responsibilities & Privileges
 

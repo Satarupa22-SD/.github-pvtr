@@ -81,7 +81,7 @@ Community members who meet the above requirements may become Approver candidates
 
 A Maintainer has organization-wide oversight, maintains the `privateer` CLI and `privateer-sdk`, and holds a binding vote on project [governance] decisions.
 
-**Defined by:** [MAINTAINERS.md] entry and GitHub `oss` Team ("responsible for the maintenance of the fully open source aspects of Privateer").
+**Defined by:** [MAINTAINERS.md] entry and GitHub `core-maintainers` Team.
 
 ### Requirements
 
